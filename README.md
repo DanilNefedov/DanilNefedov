@@ -15,7 +15,6 @@
 ###
 
 * 🌍  I'm based in Kharkiv, Ukraine
-* ✉️  You can contact me at [ndanil2@ukr.net](mailto:ndanil2@ukr.net)
 * 🚀  I'm currently working on [CookPad](http://prod-cook-pad.vercel.app/home)
 * 🧠  I'm currently learning Node.js (Express)
 
