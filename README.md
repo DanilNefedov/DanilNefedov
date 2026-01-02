@@ -92,7 +92,7 @@
 
 
 
-### Landing page  
+### Landing&nbsp;page  
 <div align="center">  
 <a href="https://danilnefedov.github.io/Furniture/" target="_blank"><img style="margin: 10px" src="https://github.com/DanilNefedov/readme/blob/master/media/furniture-logo.png?raw=true" alt="Furniture" height="50" /></a>  
 </div>
@@ -112,7 +112,7 @@
 
 
 
-### Landing page  
+### Landing&nbsp;page  
 <div align="center">  
 <a href="https://danilnefedov.github.io/Pronia/" target="_blank"><img style="margin: 10px;" src="https://github.com/DanilNefedov/readme/blob/master/media/pronia-logo.png?raw=true" alt="Pronia" height="50" /></a>  
 
