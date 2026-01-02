@@ -98,7 +98,7 @@
 </div>
 
 
-</td><td valign="top" width="45%" style="white-space: nowrap;">
+</td><td valign="top" width="55%" style="white-space: nowrap;">
 
 
 
