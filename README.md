@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Frontend developer focused on building responsive user interfaces and complex web applications. I work with modern frontend technologies and enjoy projects with non-trivial logic.<br><br>I strive for clean architecture, good performance, and writing maintainable code that can scale well over time, constantly learning and improving my approach.</p>
+<p align="left">Frontend developer focused on building responsive user interfaces and complex web applications.<br><br>I strive for clean architecture, good performance, and writing maintainable code that can scale well over time, constantly learning and improving my approach.</p>
 
 ###
 
