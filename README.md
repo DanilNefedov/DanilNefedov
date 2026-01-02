@@ -1,7 +1,7 @@
 <div style='height:120px'>
   <img
   style="width:100%;"
-  src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi%20there,%20I%60m%20Danil%20Nefedov&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&animation=fadeIn&desc=Fron-End%20Developer&descAlignY=50&textBg=false&color=gradient"/>
+  src="https://capsule-render.vercel.app/api?type=waving&height=160&section=header&text=Hi%20there,%20I%60m%20Danil%20Nefedov&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&animation=fadeIn&desc=Front-End%20Developer&descAlignY=50&textBg=false&color=gradient"/>
 </div>
 
 ###
