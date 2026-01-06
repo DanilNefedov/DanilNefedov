@@ -14,13 +14,13 @@
 
 ###
 
-<h2 align="left">Skills and more 🚀</h2>
-
-###
-
 * 🌍  I'm based in Kharkiv, Ukraine
 * 🚀  I'm currently working on [CookPad](http://prod-cook-pad.vercel.app/home)
 * 🧠  I'm currently learning Node.js (Express)
+
+###
+
+<h2 align="left">Skills and more 🚀</h2>
 
 ###
 
